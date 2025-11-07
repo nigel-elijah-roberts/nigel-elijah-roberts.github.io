@@ -1,0 +1,6 @@
+title: "Nigel Elijah Roberts, CISSP"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+description: "Founder of NexSecure Solutions LLC. Practical cybersecurity for SMBs: risk assessments, vCISO, compliance, hardening, awareness, incident readiness."

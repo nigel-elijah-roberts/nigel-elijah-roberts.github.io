@@ -35,7 +35,16 @@ It serves as a technical identity hub linking verified professional profiles, cy
 | Google Sites profile | https://sites.google.com/view/nigel-roberts-cissp/home |
 | GitHub profile | https://github.com/nigel-roberts |
 | Substack | https://substack.com/@nigelrobertscyber |
-| Book a consultation | https://calendly.com/nexsecure/cybersecurity-consultation |
+| Book a consultation | https://schedule.oleandergroveholdings.com/free-discovery-and-needs-assessment |
+
+## Practical Cybersecurity Resources
+
+| Resource | URL |
+|---|---|
+| Nonprofit Cybersecurity Starter Kit | https://github.com/nigel-roberts/nonprofit-cybersecurity-starter-kit |
+| Microsoft 365 Security Checklist | https://github.com/nigel-roberts/microsoft-365-security-checklist |
+| Cyber Risk Register for Small Businesses and Nonprofits | https://github.com/nigel-roberts/small-business-cyber-risk-register |
+| Incident Response Starter Plan | https://github.com/nigel-roberts/small-org-incident-response-plan |
 
 ## Hosted Publications
 
@@ -45,6 +54,6 @@ https://nigel-roberts.github.io/papers/
 
 ## Maintenance
 
-Last updated: 2026-06-19
+Last updated: 2026-08-11
 
 To update this site, edit `index.html`, `README.md`, or `sitemap.xml` directly in this repository.
